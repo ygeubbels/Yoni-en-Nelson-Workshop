@@ -5,4 +5,5 @@ _This is the first page the student will see when opening the url._
 
 This book can't be used as a template for other books. 
 
-![fishy]
+![fishy](https://jupyterbook.org/en/stable/_images/fun-fish.png)
+
